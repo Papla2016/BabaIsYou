@@ -1,8 +1,8 @@
 Игра Кубикон
 
-:star: Цель: Выстроить линии в ряд 
+:star: Цель: дойти до маркера победы
 
-:video_game: Управление: Управляйте черным кубиком с помощью стрелок клавиатуры :arrow_up: Вверх :arrow_down: Вниз :arrow_left: Влево :arrow_right: Вправо
+:video_game: Управление: Управляйте собой с помощью стрелок клавиатуры :arrow_up: Вверх :arrow_down: Вниз :arrow_left: Влево :arrow_right: Вправо
 
 :open_file_folder: Система уровней:
 
@@ -18,7 +18,7 @@
 
 :warning: Внимание: Для запуска игры требуется установленный Python 12 и PyQt5.
 
-:octocat: Разработчик: https://github.com/Redin666
+:octocat: Разработчик: https://github.com/Papla2016
 
 
 
