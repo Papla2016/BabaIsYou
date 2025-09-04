@@ -1,4 +1,5 @@
-from Task5 import *
+from PyQt5.QtWidgets import QWidget, QHBoxLayout, QVBoxLayout, QPushButton, QLabel
+from PyQt5.QtCore import Qt
 
 
 def initUI(Main_Pyqt):
